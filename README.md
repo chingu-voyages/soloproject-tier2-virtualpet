@@ -70,7 +70,7 @@ You'll need to display the following:
   ### Events
 
   - After 5 'pet days' the app should request it's first event from our [Virtual Pet Events API](http://www.virtual-pet.uk)
-  - Each event comes with a nextEvent value. This interger should be added to the apps current pet day to determine when to make the next event request
+  - Each event comes with a nextEvent value. This integer should be added to the apps current pet day to determine when to make the next event request
 
 - ### Advanced logic
   - As the pet gets hungry:
