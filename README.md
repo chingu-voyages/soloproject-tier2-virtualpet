@@ -1,5 +1,7 @@
 # Chingu Solo Project - Tier 2 - Virtual Pet
 
+> **NOTICE: This project is currently not available while we locate a new Tamagotchi API. Please choose another project for your Chingu Solo Project
+
 ![screenshot](./assets/screenshot.png)
 
 ## Overview
