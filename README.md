@@ -102,6 +102,8 @@ You'll need to display the following:
 
 Your repo needs to have a robust README (see Keys to a [Well-Written Readme](https://medium.com/chingu/keys-to-a-well-written-readme-55c53d34fe6d))
 
+You must use a frontend framework for a tier 2 project.
+
 ## Extras (Not Required)
 
 - Sprite CSS Animations
